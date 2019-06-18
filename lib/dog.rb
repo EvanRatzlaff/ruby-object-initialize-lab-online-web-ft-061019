@@ -17,3 +17,5 @@ class Dog
   end 
   
 end 
+
+fido = Dog.new(dogs_name, dogs_breed)
